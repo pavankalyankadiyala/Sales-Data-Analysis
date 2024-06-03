@@ -15,10 +15,10 @@ The dashboard provides insights into sales performance, including key metrics su
 
 # How to Use
 
-1. Download the `.pbix` file.
-2. Open it with Power BI Desktop.
+1. Download the `.csv` file for icons.
+2. Use those in Power BI Desktop.
 3. Connect to the `sales_data.csv`
-4. use the png files for dashboard.
+4. See the image attached for dashboard reference.
 
 [Dashboard Icons.zip](https://github.com/user-attachments/files/15539339/Dashboard.Icons.zip)
 
@@ -26,6 +26,6 @@ The dashboard provides insights into sales performance, including key metrics su
 [Dataset MeriSKILL.zip](https://github.com/user-attachments/files/15539254/Dataset.MeriSKILL.zip)
 
 
-<img width="812" alt="Dashboard Image" src="https://github.com/pavankalyankadiyala/Sales-Data-Dashboard/assets/156237146/c1071d22-00ac-40c5-92a1-2deff45c4386">
+<img width="733" alt="Dashboard" src="https://github.com/pavankalyankadiyala/Sales-Data-Dashboard/assets/156237146/9b4e1177-0338-49f3-a745-dea7cecadf99">
 
 
