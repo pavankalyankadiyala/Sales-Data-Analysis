@@ -26,3 +26,7 @@ The dashboard provides insights into sales performance, including key metrics su
 ![crm](https://github.com/pavankalyankadiyala/Sales-Data-Dashboard/assets/156237146/be55ded0-0187-4362-bb02-c4ec621db223)
 ![city](https://github.com/pavankalyankadiyala/Sales-Data-Dashboard/assets/156237146/c6bf6ebe-d56a-4936-8ce9-f807e3f8ba2d)
 ![analytics](https://github.com/pavankalyankadiyala/Sales-Data-Dashboard/assets/156237146/31e34c61-9f8a-4de4-b17c-315d6a1f76e5)
+
+[Dataset MeriSKILL.zip](https://github.com/user-attachments/files/15539254/Dataset.MeriSKILL.zip)
+
+
